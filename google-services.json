@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "917066251664",
+    "firebase_url": "https://react-tests-7118f.firebaseio.com",
+    "project_id": "react-tests-7118f",
+    "storage_bucket": "react-tests-7118f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917066251664:android:1c1a3997f856cc19518715",
+        "android_client_info": {
+          "package_name": "com.nodaysoff.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917066251664-f7mg9vhpvd8h5f341kqmsfbcmqie31el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDgjxASrjqXdWhxJgI4vRsLhri8URyebQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917066251664-f7mg9vhpvd8h5f341kqmsfbcmqie31el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
